@@ -1,3 +1,6 @@
+This App is from a course that i took when i learned about IOS Developer.
+
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Egg Timer
